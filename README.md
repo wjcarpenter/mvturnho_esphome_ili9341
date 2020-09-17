@@ -1,3 +1,5 @@
+NOTE: see https://github.com/esphome/feature-requests/issues/51#issuecomment-694546423
+
 # ESPHome [![Build Status](https://travis-ci.org/esphome/esphome.svg?branch=master)](https://travis-ci.org/esphome/esphome) [![Discord Chat](https://img.shields.io/discord/429907082951524364.svg)](https://discord.gg/KhAMKrd) [![GitHub release](https://img.shields.io/github/release/esphome/esphome.svg)](https://GitHub.com/esphome/esphome/releases/)
 
 [![ESPHome Logo](https://esphome.io/_images/logo-text.png)](https://esphome.io/)
